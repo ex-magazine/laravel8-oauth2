@@ -1,0 +1,4 @@
+composer require laravel/passport
+
+
+php artisan passport:install --uuids
